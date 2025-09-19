@@ -11,7 +11,7 @@ import SwiftUI
 struct Todos_iosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TodosView()
         }
     }
 }
